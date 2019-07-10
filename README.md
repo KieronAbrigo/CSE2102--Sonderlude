@@ -132,7 +132,7 @@ By default the GPS_IMIS was created to utilize its resources 'locally', hence no
 | Name     | Position          | Contact |
 | -------- | -------------- | -----------
 | Towana Wilson | Project Leader/ Database Administrator | https://github.com/seraph2girl
-| Kieron Abrigo | UI Developer | https://github.com/KieronShadow
+| Kieron Abrigo | UI Developer | https://github.com/KieronAbrigo
 | Lo-Reese Cummings | QA Leader |  https://github.com/Lo-ReeseCummings
 | Wilton Lawrence | Back-End Developer | https://github.com/Wilton2
 | Jornel Yearwood | UI Developer | https://github.com/Jornelyearwood
